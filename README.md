@@ -1,5 +1,7 @@
-#### Hello 🌎, I'm CintiaAmaro, journalist specializing in digital communication and marketing & systems analysis and development student. 
-
+### Hello 🌎, I'm CintiaAmaro, 
+#### Systems analysis and development student 
+&
+#### journalist specializing in digital communication and marketing 
 
 - 🌱 I’m currently learning Java; Mysql; OO; Hmtl+Css+PHP; Salesforce.  
 - 💬 Ask me about Journalism🎙️, Writing💻, MarketingDigital📈, Books&Literature📚.
