@@ -1,16 +1,39 @@
-### Hi there 👋
+#### Hello 🌎, I'm CintiaAmaro, journalist specializing in digital communication and marketing e 
 
-<!--
-**cintiamaro/cintiamaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java; Mysql; OO; Hmtl+Css+PHP; Salesforce.  
+- 💬 Ask me about Journalism🎙️, Writing💻, MarketingDigital📈, Books&Literature📚.
+- 😄 Pronouns: she/hers
+- 📫 How to reach me:
+<div>
+ <a href="https://www.linkedin.com/in/cintiamaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:cintiamaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://instagram.com/cintiamarod" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/cintiamaro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+<div align="center">
+  <a href="https://github.com/cintiamaro">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=cintiamaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintiamaro&layout=compact&langs_count=7&theme=tokyonight"/>-->
+</div>
+
+  ##### Languages & Tools
+<div style="display: inline_block"><br>
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <!-- <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> -->
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+</div>
+  
+  ##
+ 
+  
+  
