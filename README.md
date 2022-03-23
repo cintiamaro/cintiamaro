@@ -3,8 +3,8 @@
 &
 #### journalist specializing in digital communication and marketing 
 
-- 🌱 I’m currently learning Java; Mysql; OO; Hmtl+Css+PHP; Salesforce.  
-- 💬 Ask me about Journalism🎙️, Writing💻, MarketingDigital📈, Books&Literature📚.
+- 🌱 I’m currently learning JavaOO; Apex Salesforce; Hmtl+Css+Javascript.  
+- 💬 Ask me too about Journalism🎙️, Writing💻, MarketingDigital📈, Books&Literature📚.
 - 😄 Pronouns: she/hers
 - 📫 How to reach me:
 <div>
@@ -29,7 +29,6 @@
   <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <!-- <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> -->
-  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
