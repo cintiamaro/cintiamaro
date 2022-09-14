@@ -3,8 +3,8 @@
 &
 #### journalist specializing in digital communication and marketing 
 
-- 🌱 I’m currently learning JavaOO; Apex Salesforce; Hmtl+Css+Javascript.  
-- 💬 Ask me too about Journalism🎙️, Writing💻, MarketingDigital📈, Books&Literature📚.
+- 🌱 I’m currently learning JavaOO; Apex Salesforce; Hmtl+Css+Javascript, Python.  
+- 💬 Ask me too about Salesforce☁, MarketingDigital📈, Journalism🎙️, Writing💻, Books&Literature📚.
 - 😄 Pronouns: she/hers
 - 📫 How to reach me:
 <div>
